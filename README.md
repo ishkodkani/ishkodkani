@@ -1,6 +1,6 @@
 # Ishaan Kodkani
 
-Statistics student at UC Berkeley interested in applied statistics, AI, machine learning systems, analytics, forecasting, and software tools.
+Statistics student at UC Berkeley interested in applied statistics, AI, machine learning systems, product analytics, forecasting, and software sales.
 
 📧 ishkodkani@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/ishaankodkani/](https://www.linkedin.com/in/ishaankodkani/)  
