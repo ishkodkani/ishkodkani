@@ -3,7 +3,7 @@
 Statistics student at UC Berkeley interested in applied statistics, AI, machine learning systems, analytics, forecasting, and software tools.
 
 📧 ishkodkani@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/your-link]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/ishaankodkani/))  
+🔗 LinkedIn: [linkedin.com/in/ishaankodkani/](https://www.linkedin.com/in/ishaankodkani/)  
 
 I enjoy building projects involving predictive modeling, interactive analytics tools, data visualization, ML workflows, and AI-assisted applications. My interests are centered around practical systems that turn messy real-world data into useful insights and decisions.
 
